@@ -16,6 +16,11 @@ As I explore these types, I will add links to interesting materials on the topic
 
 ## link1
 
+[Popeliuha | Безкоштовний курс з Тестування ПЗ](https://www.youtube.com/c/PopeliuhaQA)
+[Artsiom Rusau QA Life](https://www.youtube.com/c/ArtsiomRusauQALife)
+[Лёша Маршал](https://www.youtube.com/c/%D0%9B%D1%91%D1%88%D0%B0%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB/featured)
+
+
 [:arrow_up:Content](#Сontent)
 
 
@@ -30,6 +35,8 @@ As I explore these types, I will add links to interesting materials on the topic
 
 
 ## link4
+
+
 
 [:arrow_up:Content](#Сontent)
 
