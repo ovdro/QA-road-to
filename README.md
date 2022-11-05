@@ -12,7 +12,14 @@ As I explore these types, I will add links to interesting materials on the topic
 
 [:arrow_up:Content](#Сontent)
 
+____
 
 ## link1
+____
+
+## link2
+____
+
+# link3
 
 
