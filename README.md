@@ -6,7 +6,3 @@ First of all, I would like to leave here a link to an excellent [article](https:
 As I explore these types, I will add links to interesting materials on the topic.
 
 
-Инструменты автоматизации тестирования
- Обзор языка Python
- Что такое Selenium, использование Selenium IDE
- CI на примере Jenkins
