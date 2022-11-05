@@ -18,8 +18,14 @@ As I explore these types, I will add links to interesting materials on the topic
 ## Markdown-Cheatsheet
 
 [GnuriaN/format-README](https://github.com/GnuriaN/format-README)
+
 [Jekins/Markdown-docs.md](https://gist.github.com/Jekins/2bf2d0638163f1294637)
-[]()
+
+[sandino/Markdown-Cheatsheet](https://github.com/sandino/Markdown-Cheatsheet)
+
+[GitHub-Flavored Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
+
+[GitHub Flavored Markdown Spec](https://github.github.com/gfm/#blocks-and-inlines)
 
 [:arrow_up:Content](#Сontent)
 
