@@ -6,16 +6,24 @@ First of all, I would like to leave here a link to an excellent [article](https:
 As I explore these types, I will add links to interesting materials on the topic.
 
 ## Сontent
-0. [YouTube](#link1)
-1. [link2](#link2)
-2. [link3](#link3)
-3. [link4](#link4)
+0. [Markdown-Cheatsheet](#Markdown-Cheatsheet)
+1. [YouTube](#YouTube)
+2. [link2](#link2)
+3. [link3](#link3)
+4. [link4](#link4)
 
 
 [:arrow_up:Content](#Сontent)
 
+## Markdown-Cheatsheet
 
-## link1
+[GnuriaN/format-README](https://github.com/GnuriaN/format-README)
+[Jekins/Markdown-docs.md](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+[]()
+
+[:arrow_up:Content](#Сontent)
+
+## YouTube
 
 [Popeliuha | Безкоштовний курс з Тестування ПЗ](https://www.youtube.com/c/PopeliuhaQA)
 
