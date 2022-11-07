@@ -10,7 +10,7 @@ As I explore these types, I will add links to interesting materials on the topic
 1. [YouTube](#YouTube)
 2. [Telegram](#Telegram)
 3. [Discord](#Discord)
-4. [Useful links](#Useful links)
+4. [Useful_links](#Useful_links)
 
 
 [:arrow_up:Content](#Сontent)
@@ -64,7 +64,7 @@ As I explore these types, I will add links to interesting materials on the topic
 [:arrow_up:Content](#Сontent)
 
 
-## Useful links
+## Useful_links
 
 
 [:arrow_up:Content](#Сontent)
