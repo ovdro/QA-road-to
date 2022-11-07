@@ -67,8 +67,9 @@ As I explore these types, I will add links to interesting materials on the topic
 ## Useful_links
 
 
-[](https://taplink.cc/rusau.qalife)
-[](https://artsiomrusau.com/)
+![](https://taplink.cc/rusau.qalife)
+
+![](https://artsiomrusau.com/)
 
 [:arrow_up:Content](#Сontent)
 
