@@ -40,6 +40,8 @@ As I explore these types, I will add links to interesting materials on the topic
 
 [Artsiom Rusau QA Life](https://www.youtube.com/c/ArtsiomRusauQALife)
 
+![Лёша Маршал](https://yt3.ggpht.com/ytc/AMLnZu9FKoNDwHVAd7ah2fRkpGsMj-_Q9NRXPDxZ00Sw7w=s88-c-k-c0x00ffffff-no-rj)
+
 [Лёша Маршал](https://www.youtube.com/c/%D0%9B%D1%91%D1%88%D0%B0%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB/featured)
 
 
