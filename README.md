@@ -32,8 +32,11 @@ As I explore these types, I will add links to interesting materials on the topic
 ## YouTube
 
 
-![Popeliuha](https://yt3.ggpht.com/BxoBrSAZgXyiGioV4gUOHNASq6PrjqdCkF53eOV_WW_OQn9MA5ETLn762h3ZbKlJutsEzV__=s88-c-k-c0x00ffffff-no-rj) <b>
+![Popeliuha](https://yt3.ggpht.com/BxoBrSAZgXyiGioV4gUOHNASq6PrjqdCkF53eOV_WW_OQn9MA5ETLn762h3ZbKlJutsEzV__=s88-c-k-c0x00ffffff-no-rj)
+
 [Popeliuha | Безкоштовний курс з Тестування ПЗ](https://www.youtube.com/c/PopeliuhaQA)
+
+![Artsiom Rusau QA Life](https://yt3.ggpht.com/ytc/AMLnZu_uXYJY3jyFqqiSyPSAQnHlXBzV7VG6nxmxYqrHew=s88-c-k-c0x00ffffff-no-rj)
 
 [Artsiom Rusau QA Life](https://www.youtube.com/c/ArtsiomRusauQALife)
 
