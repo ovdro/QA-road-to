@@ -8,8 +8,8 @@ As I explore these types, I will add links to interesting materials on the topic
 ## Сontent
 0. [Markdown-Cheatsheet](#Markdown-Cheatsheet)
 1. [YouTube](#YouTube)
-2. [link2](#link2)
-3. [link3](#link3)
+2. [Telegram](#Telegram)
+3. [Discord](#Discord)
 4. [link4](#link4)
 
 
@@ -48,12 +48,18 @@ As I explore these types, I will add links to interesting materials on the topic
 [:arrow_up:Content](#Сontent)
 
 
-## link2
+## Telegram
+
+
+[](https://t.me/qachanell)
+
 
 [:arrow_up:Content](#Сontent)
 
 
-## link3
+## Discord
+
+[Artsiom Rusau QA Life](https://discord.gg/jHDxnGbttP)
 
 [:arrow_up:Content](#Сontent)
 
