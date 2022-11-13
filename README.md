@@ -5,7 +5,7 @@
 First of all, I would like to leave here a link to an excellent [article](https://dou.ua/forums/topic/40666/) by [Natalia Popelyushko](https://dou.ua/users/nataliia-popelyshko/) on [DOU](https://dou.ua/), which contains all currently known types of testing.
 As I explore these types, I will add links to interesting materials on the topic.
 
-## Сontent
+## Content
 0. [Git-Cheatsheet](https://www.mindmeister.com/map/2486738871)
 0. [Markdown-Cheatsheet](#Markdown-Cheatsheet)
 1. [YouTube](#YouTube)
@@ -14,7 +14,7 @@ As I explore these types, I will add links to interesting materials on the topic
 4. [Useful_links](#Useful_links)
 
 
-[:arrow_up:Content](#Сontent)
+[:arrow_up:Content](#Content)
 
 ## Markdown-Cheatsheet
 
@@ -39,7 +39,7 @@ As I explore these types, I will add links to interesting materials on the topic
 [Лёша Маршал](https://www.youtube.com/c/%D0%9B%D1%91%D1%88%D0%B0%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB/featured)
 
 
-[:arrow_up:Content](#Сontent)
+[:arrow_up:Content](#Content)
 
 
 ## Telegram
@@ -48,14 +48,14 @@ As I explore these types, I will add links to interesting materials on the topic
 [](https://t.me/qachanell)
 
 
-[:arrow_up:Content](#Сontent)
+[:arrow_up:Content](#Content)
 
 
 ## Discord
 
 [Artsiom Rusau QA Life](https://discord.gg/jHDxnGbttP)
 
-[:arrow_up:Content](#Сontent)
+[:arrow_up:Content](#Content)
 
 
 ## Useful_links
@@ -64,6 +64,6 @@ As I explore these types, I will add links to interesting materials on the topic
 [Все ссылки на соцсети Artsiom Rusau QA Life ](https://taplink.cc/rusau.qalife)
 
 
-[:arrow_up:Content](#Сontent)
+[:arrow_up:Content](#Content)
 
 
