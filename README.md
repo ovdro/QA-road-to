@@ -6,6 +6,7 @@ First of all, I would like to leave here a link to an excellent [article](https:
 As I explore these types, I will add links to interesting materials on the topic.
 
 ## Сontent
+0. [Git-Cheatsheet](https://www.mindmeister.com/map/2486738871)
 0. [Markdown-Cheatsheet](#Markdown-Cheatsheet)
 1. [YouTube](#YouTube)
 2. [Telegram](#Telegram)
