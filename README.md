@@ -61,11 +61,14 @@ As I explore these types, I will add links to interesting materials on the topic
 ## Useful_links
 
 
-[Все ссылки на соцсети Artsiom Rusau QA Life ](https://taplink.cc/rusau.qalife)    
-[W3Schools is a freemium educational website for learning coding online](https://www.w3schools.com/)
+[Все ссылки на соцсети Artsiom Rusau QA Life](https://taplink.cc/rusau.qalife)    
+[W3Schools is a freemium educational website for learning coding online](https://www.w3schools.com/) 
+
 [LearnGitBranching](https://learngitbranching.js.org/) 
+
 [Coursera.org/](https://www.coursera.org/)
 
+[Great Learning](https://www.mygreatlearning.com/)
 
 [:arrow_up:Content](#Content)
 
