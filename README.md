@@ -43,9 +43,10 @@ As I explore these types, I will add links to interesting materials on the topic
 
 
 ## Telegram
+[JUNOHub - зона комфорта](t.me/junohub (https://t.me/junohub))
 
 
-[](https://t.me/qachanell)
+[QA Life - Тестировщик с нуля](https://t.me/qachanell)
 
 
 [:arrow_up:Content](#Content)
