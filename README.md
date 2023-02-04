@@ -38,6 +38,8 @@ As I explore these types, I will add links to interesting materials on the topic
 
 [Лёша Маршал](https://www.youtube.com/c/%D0%9B%D1%91%D1%88%D0%B0%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB/featured)
 
+[Alex Pshe](https://www.youtube.com/@alexpshe)
+
 
 [:arrow_up:Content](#Content)
 
@@ -73,6 +75,8 @@ As I explore these types, I will add links to interesting materials on the topic
 [Great Learning](https://www.mygreatlearning.com/)
 
 [LearnGitBranching](https://learngitbranching.js.org/)
+
+[Александра Пшеборовская](http://alexpshe.tilda.ws/)
 
 [:arrow_up:Content](#Content)
 
